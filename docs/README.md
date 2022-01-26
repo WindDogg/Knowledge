@@ -1,16 +1,13 @@
 
 <p align="center">
     <a href="https://winddogg.github.io/Knowledge/" target="_blank">
-        <img src="https://gitee.com/codesage/picture-warehouse/blob/master/topic.jpg" width=""/>
+        <img src="https://gitee.com/codesage/picture-warehouse/raw/master/topic.jpg" width=""/>
     </a>
 </p>
 
 
 <p align="center">
   <a href="https://github.com/WindDogg/Knowledge" target="_blank"><img src="https://img.shields.io/badge/Github-r2coding-red.svg"></a>
-  //:<a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-  //:  <img src="https://img.shields.io/badge/微信联系作者-WeChat-green.svg" alt="微信联系">
-  //: </a>
 </p>
 
 ---

@@ -1,5 +1,5 @@
 
-![logo](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/r2coding_logo_cover.7hb2s8l3eqk0.png)
+![logo](https://gitee.com/codesage/picture-warehouse/raw/master/topic.jpg)
 
 
 - 本站取名为 **RoadToSage**，意为成圣之路，是自学编程以来所用资源和分享内容的大聚合。旨在方便自己查阅。**网站内容会持续保持更新，欢迎收藏品鉴！**
