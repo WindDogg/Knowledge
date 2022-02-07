@@ -6,28 +6,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/WindDogg/Knowledge" target="_blank"><img src="https://img.shields.io/badge/Github-r2coding-red.svg"></a>
-</p>
-
----
-# **为什么会有这个网站**
----
-
-> [!TIP]
->  本站取名 **Code Sage**,是自学编程以来所用资源和分享内容的大聚合。
-
-
----
-# **编程自学路线+知识大梳理**
-
----
-> [!NOTE]
->  本站目前整理收录了1个大方向（岗位）的学习路线+知识点大梳理，分别为：
->  
->  - **Java后端开发**
->  
-
 
 ---
 
