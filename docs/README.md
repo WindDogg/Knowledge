@@ -15,24 +15,17 @@
 ---
 
 > [!TIP]
->  本站取名 **Road Sage**,是自学编程以来所用资源和分享内容的大聚合。
+>  本站取名 **Code Sage**,是自学编程以来所用资源和分享内容的大聚合。
 
-
----
-# **本站内容地图**
----
-
-![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/contentmap.3sdmma4od740.png)
 
 ---
 # **编程自学路线+知识大梳理**
 
 ---
 > [!NOTE]
->  本站目前整理收录了2个大方向（岗位）的学习路线+知识点大梳理，分别为：
+>  本站目前整理收录了1个大方向（岗位）的学习路线+知识点大梳理，分别为：
 >  
 >  - **Java后端开发**
->  - **网络安全方向**
 >  
 
 
@@ -42,17 +35,9 @@
 
 ### **Java后端开发**
 
-```pdf
-https://static.r2coding.com/r2_static/pdf/jawa.pdf
-```
 
 > [!TIP]
 >  详情链接 **→** [《Java后端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/rAoamIey7cARMES7kfIaLw)
-
-### **网络安全方向**
-
-> [!TIP]
->  详情链接 **→** [《网络安全方向学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/pPs5Gm9I3a6-nMZQ42kaWg)
 
 <!-- tabs:end -->
 
@@ -102,66 +87,6 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 - [**在线思维导图工具MindLine**](http://www.mindline.cn/webapp)
 - [**PlantUML在线编辑器**](http://haha98k.com/)
 
-#### **在线编解码工具**
-
-- [**BASE64编解码工具**](https://base64.supfree.net/)
-- [**MD5编码工具**](https://www.zxgj.cn/g/md5)
-- [**AES/DES加解密**](http://www.fly63.com/tool/cipher/)
-- [**JWT解码工具**](http://jwt.calebb.net/)
-- [**ASCII编解码工具**](https://www.matools.com/code-convert-ascii)
-- [**Unicode编解码工具**](https://www.zxgj.cn/g/unicode)
-- [**UTF-8编解码工具**](https://www.zxgj.cn/g/utf8)
-- [**字符串编解码工具**](https://www.zxgj.cn/g/enstring)
-- [**URL编解码工具**](http://tool.chinaz.com/tools/urlencode.aspx?jdfwkey=lbixz1)
-
-#### **在线转换工具**
-
-- [**在线ASCII码对照表**](http://www.fly63.com/tool/ascii/)
-- [**通用进制转换工具**](https://www.zxgj.cn/g/jinzhi)
-- [**在线浮点数十进制转换**](http://www.binaryconvert.com/)
-- [**RGB颜色转换**](https://www.zxgj.cn/g/yansezhi)
-- [**时间戳转换工具**](https://www.zxgj.cn/g/unix)
-- [**计量单位换算工具**](http://www.fly63.com/tool/unitable/)
-- [**在线JSON解析**](http://www.json.cn/)
-- [**在线JS代码格式化工具**](https://prettier.io/playground/)
-- [**SQL压缩/格式化工具**](https://www.zxgj.cn/g/sqlformat)
-- [**JSON和XML在线转换**](https://www.zxgj.cn/g/jsonxml)
-- [**JSON/YAML在线转换**](http://www.fly63.com/tool/jsonyaml/)
-- [**人民币大小写转换工具**](http://www.fly63.com/tool/renmingbi/)
-
-#### **正则表达式工具**
-
-- [**正则表达式调试工具**](https://regexr.com/)
-- [**正则表达式可视化工具**](https://jex.im/regulex/)
-
-#### **网络工具**
-
-- [**IP地址归属地查询**](https://www.ip138.com/)
-- [**IP地址查询**](https://www.ipip.net/ip.html)
-- [**HTTP在线接口测试工具**](http://www.fly63.com/php/http/)
-
-#### **在线编译运行工具**
-
-- [**C#在线编译运行**](https://rextester.com/)
-- [**C/C++在线编译调试**](https://www.onlinegdb.com/)
-- [**在线编译工具套装**](https://c.runoob.com/)
-
-#### **可视化/格式化工具**
-
-- [**在线前端编辑器**](https://codepen.io/)
-- [**在线数据可视化**](https://flourish.studio/)
-- [**在线JSON解析**](http://www.json.cn/)
-- [**在线CSS代码可视化工具**](https://enjoycss.com/)
-- [**XML格式化工具**](https://www.zxgj.cn/g/xmlformat)
-- [**在线JS代码格式化工具**](https://prettier.io/playground/)
-- [**SQL压缩/格式化工具**](https://www.zxgj.cn/g/sqlformat)
-- [**JSON和XML在线转换**](https://www.zxgj.cn/g/jsonxml)
-- [**JSON/YAML在线转换**](http://www.fly63.com/tool/jsonyaml/)
-
-#### **在线生成器**
-
-- [**UUID在线生成器**](https://www.zxgj.cn/g/uuid)
-- [**随机数生成器**](https://www.zxgj.cn/g/suijishu)
 
 #### **其他常用在线开发相关工具**
 
@@ -258,14 +183,6 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 - [**中国大学MOOC**](https://www.icourse163.org/)
 - [**牛客网**](www.nowcoder.com)
 - [**网易公开课**](https://open.163.com/)
-- [**CodeGym**](https://codegym.cc/)
-- [**BeginnersBook**](https://beginnersbook.com/)
-- [**JavaSED**](http://www.javased.com/)
-- [**codecademy**](https://www.codecademy.com/)
-- [**Coursera**](https://www.coursera.org/)
-- [**StackOverFlow**](https://stackoverflow.com/)
-- [**LeetCode**](https://leetcode-cn.com/)
-- [**LintCode**](https://www.lintcode.com/)
 
 #### **在线教程和文档**
 
@@ -582,20 +499,6 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
   - [面试题：Java虚拟机（JVM）面试题大集合2](https://mp.weixin.qq.com/s/ZYoeC8yyfReEJDFSqiW8hw)
 
 
-#### **C语言**
-
-- 待更新...
-
-
-#### **C++**
-
-- 待更新...
-
-#### **Golang**
-
-- 待更新...
-
-
 <!-- tabs:end -->
 
 ---
@@ -607,10 +510,6 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 >  数据结构和算法题对于程序员的重要性不言而喻。参加过笔试或者面试过的小伙伴应该知道，可以说这个东西某一程度上直接决定了面试的成败，现在的互联网公司技术岗面试，数据结构+算法题基本都是必选项。除了几种基础数据结构类型得烂熟于心，基本的几大算法(或者说算法思想)也要了如指掌之外，参加求职前，不论是校招还是社招，非常有必要好好刷一刷LeetCode上的数据结构和算法题，以保持题感。
 ---
 
-- [资源下载 → LeetCode算法刷题Golang版答案PDF文档](https://mp.weixin.qq.com/s/EaDLaLy3YjrNiSoNofwMMA)
-- [资源下载 → LeetCode算法刷题C++版答案PDF文档](https://mp.weixin.qq.com/s/qR6KTfldk41lsOj1Ghp6Og)
-- [资源下载 → LeetCode算法刷题Java版答案PDF文档](https://mp.weixin.qq.com/s/kWTJ9640mPegr5wqVE0GMg)
-- [资源下载 → 谷歌学长的数据结构+算法题代码笔记手册](https://mp.weixin.qq.com/s/gXH98f1p5cCYVETCn9w9kA)
 - [数据结构：24张图详解九大数据结构](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [数据结构：哈希表详解](https://mp.weixin.qq.com/s/UanDueZi3MwlcKYGMNQPGg)
 - [数据结构：栈Stack的几种含义理解](https://mp.weixin.qq.com/s/v6rr0M9AW_kSMEtjkc-Mqw)
@@ -743,8 +642,6 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 ## 其他
 
 - [每个开发人员都应该了解一点的UML规范](https://mp.weixin.qq.com/s/7-CTSWN-VLYgPH5H2nPU8w)
-- [计算机时间到底是怎么来的](https://mp.weixin.qq.com/s/VFUg1S0ApuFzlTNYSCLkMQ)
-- [乱码问题科普：“锟斤拷”的前世今生~](https://mp.weixin.qq.com/s/kTADQtTeOWPuXsvR9HsUIg)
 - [从一个面试题看程序员的几项基本功](https://mp.weixin.qq.com/s/dVgDv1bNH8ivO0Ft0FtmZg)
 
 ---
@@ -995,8 +892,6 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 - [Java开源项目：Java领域学习和练手的开源项目分享：第一弹](https://mp.weixin.qq.com/s/PmxVlkI9LUmnqqSk0Frqeg)
 - [Java开源项目：Java领域学习和练手的开源项目分享：第二弹](https://mp.weixin.qq.com/s/y59hmDbQj1QglVj90viZqw)
 - [Java开源项目：Java领域学习和练手的开源项目分享：第三弹](https://mp.weixin.qq.com/s/jjugnXIr3G0u7i9krbmmqg)
-- [C/C++开源项目：几款适合初学者学习和练手的C/C++开源项目](https://mp.weixin.qq.com/s/bRNiqhZZXaoRwPEt8GIpLg)
-- [C/C++开源项目：几款适合进阶学习和练手的C/C++开源项目](https://mp.weixin.qq.com/s/fNgOqKlITKa4yTbULO2Atw)
 - [人工智能开源项目：AI领域几款标杆开源项目大巡礼](https://mp.weixin.qq.com/s/I9lr_SEg70OO_v-GOIUgjQ)
 - [Python开源项目：几个炫酷的Python开源项目](https://mp.weixin.qq.com/s/Fu4OMojTJK0MrZohsLOx4w)
 - [读源码的7大心得总结](https://mp.weixin.qq.com/s/eWN7I8eHGE2exrdF3xziIA)
@@ -1056,12 +951,6 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 - [程序员写简历时必须注意的技术词汇拼写](https://mp.weixin.qq.com/s/q5gPSIiJqVvbI6Xa4dMXwA)
 - [国内程序员最容易发音错误的单词集合](https://mp.weixin.qq.com/s/VJsp5SzGuOCGl-mWdbtCxQ)
 
-## 工作岗位科普
-
-- [科普：学C++的以后能从事哪些岗位](https://mp.weixin.qq.com/s/LEWBkJ5wkAIIcuv98g1Yhg)
-- [科普：物联网行业的岗位、技能](https://mp.weixin.qq.com/s/AtSMfjq0GXQdVxo2o6s3-g)
-- [科普：学Linux的以后能做什么](https://mp.weixin.qq.com/s/EA_iYwpSIMQGgpCrvvVOzA)
-- 持续更新中 ...
 
 ## 面试题集合
 
@@ -1069,8 +958,6 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 
 <!-- div:left-panel -->
 
-- [C/C++：C语言/C++基础面试知识大集合](https://mp.weixin.qq.com/s/7mx58Idw1pL0MjPIFBUB1Q)
-- [C/C++：68道C语言/C++常见面试题集合](https://mp.weixin.qq.com/s/BRQ-3uvstdZPO-cnLGCVzA)
 - [Java：Java面试题硬核全梳理 ~](https://mp.weixin.qq.com/s/p1zxnGVeTDJiyjgowRIoBA)
 - [Java：10道精选Java基础面试题集合](https://mp.weixin.qq.com/s/oBDrFnuk1lbfuNHkrhAC5w)
 - [Java：Java基础知识面试题大集合](https://mp.weixin.qq.com/s/f-qIQGbzwHcW5Ur51rCqgg)
@@ -1164,147 +1051,8 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 - [一二线城市知名IT互联网公司总名单](https://mp.weixin.qq.com/s/VFocc914mGTrDzodI-MF1A)
 - [常见互联网公司职级和薪资一览](https://mp.weixin.qq.com/s/5gtu7B05EKbPDXvhha5uNQ)
 - [常见互联网公司时薪排行榜](https://mp.weixin.qq.com/s/wvdzBTcLLaeEtCqZI6T_Qg)
----
-- [成都有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/UDWHt3QwsZBfZ25-pddwhQ)
-- [武汉有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/bjHmAtPrSKQCDjfr9Mu0_Q)
-- [南京有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/kskE2wJx_QtT6vCgsrUgIA)
-- [合肥有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/tBNWFJbkjkV0bEPh4t9VQg)
-- [深圳有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/dtJBi4QXXTrGkKTPM0y7VA)
-- [成都有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/t4L45znsZRmWQ7MIQQtvhg)
-- [西安有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/eD3tjUC4qASHH0WSWhz57Q)
-- [长沙有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/UQHJ-iZDvQb3RLwQsELbUQ)
-- [武汉有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/6dh1jbmuDqnHBoM7beTQbg)
-- [天津有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/Ks9XLLUh099wSHWG0OBf1g)
-- [郑州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/8-uZUrG8_ziR5tKl1K8YNw)
-- [杭州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/Bwu0MDQhZiaY0vj3HsEsLg)
-- [广州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/s5UhdFyj9-8bqwQyZUMvVA)
-- [青岛有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/Miu3eC6hqJlK8fi8Qr-DtQ)
-- [上海有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/zYI8qW3Zfu2ySeO-PDqwZA)
-- [大连有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/12inr2oRTULf7NhYOBGMYw)
-- [苏州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/529Zv24uToDW4xxEOFdiqw)
-
-## 其他求职相关问题
-
-- [为什么有些大公司技术却弱爆了？](https://mp.weixin.qq.com/s/QUJzl1ZG77DDnQNK0OAsHg)
-- [嵌入式行业到底有没有搞头？](https://mp.weixin.qq.com/s/iV7DMApxhEw5YL-upIowVA)
-- [找工作时，公司所说的「给期权」到底是什么东西？](https://mp.weixin.qq.com/s/9XMAvP_t0B1Ev57-ZC42yw)
-- [入职一家公司，应该选择新业务还是老业务？](https://mp.weixin.qq.com/s/cu7mDeU2q2uEG8Q0CPzDEA)
-- [采访了一位技术总监：聊了聊跳槽的心态问题](https://mp.weixin.qq.com/s/NGJc71cW2TKEONe6jhIUSg)
-- [程序员从技术→管理，要走哪些路？](https://mp.weixin.qq.com/s/4_MB3L511h7qoXNxPRdOvQ)
 
 
----
-# **视频教程推荐**
-
----
-> [!NOTE]
->  对于学习编程的小伙伴来说，网上有海量现成的宝贵视频学习资源可供食用。
->  所以该板块会持续甄选和更新互联网上那些优秀的、值得反复观看的技术视频教程。
----
-
-<!-- tabs:start -->
-
-#### **数据结构和算法**
-
----
->  - **《郝斌 数据结构入门》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=6159200&bvid=BV11s41167h6&cid=10001692&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
->  - **《数据结构-浙江大学》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=18586085&bvid=BV1JW411i731&cid=30323260&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
->  - **《数据结构与算法基础（青岛大学-王卓）》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=82837069&bvid=BV1nJ411V7bd&cid=141710539&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
->  - **《尚硅谷 Java数据结构与算法）》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=54029771&bvid=BV1E4411H73v&cid=261675748&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
-#### **计算机网络**
-
----
-> - **《计算机网络微课堂》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=64605483&bvid=BV1c4411d7jb&cid=112161859&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
-> - **《2019 王道考研 计算机网络》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=70228743&bvid=BV19E411D78Q&cid=121579556&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
-> - **《韩立刚 计算机网络》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=415599826&bvid=BV1gV411h7r7&cid=262615706&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
-> - **《计算机网络（谢希仁第七版）-方老师》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=421258608&bvid=BV1H3411y7q6&cid=430413734&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
-#### **操作系统**
-
-> - **《2020 南京大学  操作系统：设计与实现 (蒋炎岩) 》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=89733537&bvid=BV1N741177F5&cid=153258157&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
-> - **《操作系统（哈工大李治军老师）》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=51437944&bvid=BV1d4411v7u7&cid=90016520&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
-#### **计算机组成原理**
-
----
-> - **《计算机组成原理（哈工大刘宏伟）》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=51650260&bvid=BV1t4411e7LH&cid=90407902&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
-#### **编译原理**
-
----
-> - **《编译原理（哈工大）》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=17649289&bvid=BV1zW411t7YE&cid=28812645&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
-#### **更多敬请期待...**
-
----
-
-更多的视频教程资源会持续更新，敬请期待...
-
-<!-- tabs:end -->
 
 ---
 # **资源汇总和下载**
@@ -1327,18 +1075,10 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 
 ## PDF干货笔记下载
 
-- [下载 → LeetCode算法刷题Golang版答案PDF文档](https://mp.weixin.qq.com/s/EaDLaLy3YjrNiSoNofwMMA)
-- [下载 → LeetCode算法刷题C++版答案PDF文档](https://mp.weixin.qq.com/s/qR6KTfldk41lsOj1Ghp6Og)
-- [下载 → LeetCode算法刷题Java版答案PDF文档](https://mp.weixin.qq.com/s/kWTJ9640mPegr5wqVE0GMg)
-- [下载 → 谷歌学长的数据结构+算法题代码笔记手册](https://mp.weixin.qq.com/s/gXH98f1p5cCYVETCn9w9kA)
 - [下载 → 再肝两夜，写了个「服务器项目部署」实战PDF手册](https://mp.weixin.qq.com/s/JUJ6qu_ec3s1JmTxQt_V3g)
 - [下载 → 熬10天夜，肝出了这个PDF版「软件安装手册」](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
 - [下载 → 熬了7天夜，羊哥肝了个Linux速查备忘手册！](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
 - [下载 → Java后端开发学习路线+知识点梳理总结](https://mp.weixin.qq.com/s/x9E7ogAxFNpODXkAXCZZ3w)
-- [下载 → 前端开发学习路线+知识点梳理总结](https://mp.weixin.qq.com/s/xUKlD-Ro4x55NfANAwxJUw)
-- [下载 → 大数据开发学习路线+知识点梳理总结](https://mp.weixin.qq.com/s/vBCwU-BCsGVNpjJM__LheQ)
-- [下载 → 嵌入式开发学习路线+知识点梳理总结](https://mp.weixin.qq.com/s/nkBsUgbuMK3ArHfFc2417w)
-- [下载 → C/C++后台开发学习路线+知识点梳理总结](https://mp.weixin.qq.com/s/ac8vgjob8nDqM1Q7FGLRiA)
 - [下载 → 找工作简历模板集(word格式) ](https://mp.weixin.qq.com/s/EKBRCNr_3n0y8CCSUNPdPg)
 - [下载 → 程序员写简历时的技术词汇拼写规范PDF手册](https://mp.weixin.qq.com/s/q5gPSIiJqVvbI6Xa4dMXwA)
 - [下载 → Java基础核心知识大总结PDF文档](https://mp.weixin.qq.com/s/jn7oraFlhRkOmiv3rh74WA)
@@ -1372,58 +1112,8 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 - [写给程序员看的买房+考公务员攻略](https://mp.weixin.qq.com/s/f8KtgdRx6ATbR-4RY_I_aA)
 - [毕业租房避坑攻略（含购物清单）](https://mp.weixin.qq.com/s/9fyrQPqfXx2bhbXjyYdnaw)
 - [加班严重时该如何自我提升？](https://mp.weixin.qq.com/s/oCQWlUkQ7ezgtYdono3BzA)
-- [在腾讯待了9年还离了职](https://mp.weixin.qq.com/s/SclEMeRJTqSVq-HsXaLNTQ)
-- [聊一聊自学计算机的辛酸史](https://mp.weixin.qq.com/s/AFnB33Rs7ahbjiX1CqfccQ)
-- [一个算法工程师的日常](https://mp.weixin.qq.com/s/-vBrii3kn5lNn0Bj4rzAdg)
-- [测试岗与开发岗的那些爱恨情仇](https://mp.weixin.qq.com/s/3Vf49cYXfwp6znt_SJhgsg)
-- [采访了一位技术总监：聊了聊跳槽的心态问题](https://mp.weixin.qq.com/s/NGJc71cW2TKEONe6jhIUSg)
-- [这就是架构师一天的生活，还羡慕不？](https://mp.weixin.qq.com/s/rMqSG84kNtLJ5Oiwk-S7Qw)
-- [程序员是如何玩浪漫的？](https://mp.weixin.qq.com/s/vI7EGqo7YbljRdZn2nUSMQ)
-- [假如曹操是一名程序员，你猜怎么着？](https://mp.weixin.qq.com/s/AE8dGz9asZ1de2-kvCiZwQ)
-- [周末无聊，我都逛哪些资讯类网站充电呢？](https://mp.weixin.qq.com/s/yE_fShdcgE1e1bnpHiLWyA)
-- [亲历分享：一行代码，百万人民币打水漂](https://mp.weixin.qq.com/s/dj3Z8-kgpCzzc-bQQgg__g)
-- [程序员从技术→管理，要走哪些路？](https://mp.weixin.qq.com/s/4_MB3L511h7qoXNxPRdOvQ)
-- [IT领域的2/8法则，扎心了](https://mp.weixin.qq.com/s/wd9QkLsrygO8ADW6heJg8w)
-- [周一划水必备：程序员专属GIF动图批发](https://mp.weixin.qq.com/s/Gy-Qs80rHKDJwapCmYGGEg)
-- [521坦白帖：当年念书时是怎么写情书的？](https://mp.weixin.qq.com/s/9DxslnAKgBHG85iZ8m6yYQ)
-- [一位半路转行计算机的女生](https://mp.weixin.qq.com/s/xfKoK3cQvcz-WGh50LiSBg)
-- [程序员界的孔乙己](https://mp.weixin.qq.com/s/dW81quoXMRA2ObwTzIv74g)
-- [我的大学四年收获及工作感悟](https://mp.weixin.qq.com/s/x9EEDlGNIOPOL3v_qZiiAQ)
-- [离职后，华为的哪些东西是自己最留恋的？](https://mp.weixin.qq.com/s/g5nb-yti5bv9_OCRqIjFCQ)
-- [华为最美小姐姐，被外派到墨西哥后...](https://mp.weixin.qq.com/s/Dk-9se1eFl44NdmWB_sFOQ)
-- [我在南大的七年](https://mp.weixin.qq.com/s/HrSitzmxTxWw4atXQHCa_A)
-- [垃圾领导把我的功劳全抢走了！](https://mp.weixin.qq.com/s/gknm-6k1zLY-1Cey12whSw)
-- [用随机梯度下降法来优化自己的人生！！](https://mp.weixin.qq.com/s/Rc2_rR9rJ7tx_LO_q80zuQ)
-- [美团大佬分享：写给工程师的几条精进建议](https://mp.weixin.qq.com/s/gJby-f46_hv5Wjk3Eu5iaw)
-- [我，生物专业出身，自学转到了互联网](https://mp.weixin.qq.com/s/yhY1VfuCEB0DSWYtBzMKDA)
-- [坦白贴：十一在家我都逛哪些技术网站？](https://mp.weixin.qq.com/s/jboZwMaxfs1mOdf5mxPbeA)
 
-## 读研深造
 
-- [整整5年了！老羊斗胆聊一聊和自己导师的相处](https://mp.weixin.qq.com/s/6h8GIqCdqs0pkNuwR-M7Yg)
-- [学弟跨考浙大计算机的掏心窝子分享！](https://mp.weixin.qq.com/s/cgtbhh7lrhsHXquFz7d1Ow)
-- [既然硕士毕业也去搞开发，那我还读个喵的研？](https://mp.weixin.qq.com/s/_Kt9OmaBVDDj6S7rsdC-Aw)
-- [一篇所有研究生都该读的好文：阳光温热，科研静好！](https://mp.weixin.qq.com/s/kbRlOB9hdU4j54VGF1s8oQ)
-- [如何优雅地向老师表达我这周任务没啥进展？](https://mp.weixin.qq.com/s/gbIGNXIkOpw8tQ5aIoJMtw)
-- [好不容易读个研，遇到放羊的导师怎么办？](https://mp.weixin.qq.com/s/OkxMe3Eaywx-KF9tBmjf-Q)
-- [研究生/专升本都扩招，我们没有理由放弃](https://mp.weixin.qq.com/s/MvZFLDHItPR7InzrtYRL5w)
-- [本科、硕士、博士，究竟有何区别？](https://mp.weixin.qq.com/s/Oa-1F1h6FmgodjG__2AZ_Q)
-- [一位博士的自白：毕业时想大哭一场](https://mp.weixin.qq.com/s/h6o5XpA8-M97MWILhdrO5A)
-- [一个农村博士的独白：全家为什么只有我读到了博士](https://mp.weixin.qq.com/s/EhWWnpLuhLM3_lX8Ja3qMQ)
-- [考研上岸哈工大的经历分享](https://mp.weixin.qq.com/s/hDR4FKDA4Hkc_yvXgyvI8A)
-
-## 闲聊唠嗑
-
-- [深夜闲聊：还敢无脑梭哈计算机么？](https://mp.weixin.qq.com/s/AAMmLDeZSLPkKzzGrkHd9g)
-- [那些学计算机的女生后来都怎么样了？](https://mp.weixin.qq.com/s/xweKJoGKG5NUssZioROQZw)
-- [程序员缺乏经验的7种表现](https://mp.weixin.qq.com/s/UT1muuGblZ6hFvLViti6OQ)
-- [程序员的酒后真言，都不容易](https://mp.weixin.qq.com/s/oKFHpaItmlB57gCE0sbzig)
-- [自学技术时，看书还是看视频？](https://mp.weixin.qq.com/s/1AabNVmQTyhlEnaghoyGOg)
-- [学校出身一般，该怎么办](https://mp.weixin.qq.com/s/7oOoThASit_ipIgyYzuMfA)
-- [如何写出让同事无法维护的代码？](https://mp.weixin.qq.com/s/8zP5DX79-aEuFF17MYnHtg)
-- [六成大学生认为自己毕业10年内会年入百万？](https://mp.weixin.qq.com/s/bj6LG7bq1Og8-fplcLjROA)
-- [拼多多和电网offer，要你会选哪个？](https://mp.weixin.qq.com/s/bWcoi4oEIq6_F_NSkO7lOA)
-- [C语言，50岁了！永远滴神！](https://mp.weixin.qq.com/s/Bhj0hj43jW7Ua78QENeC1g)
 
 
 ## 读书写作
@@ -1442,90 +1132,32 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 - [在线代码截图工具](https://carbon.now.sh/)
 
 
-## 摸鱼时间
-
-咳咳。。。
-
-  - [0x00000001](https://www.bilibili.com/)
-  - [0x00000002](https://mo.fish/)
-  - [0x00000003](http://www.mazegenerator.net/)
-  - [0x00000004](https://duomoyu.com/)
-  - [0x00000005](http://slither.io/)
-  - [0x00000006](https://www.anyknew.com/#/)
-  - [0x00000007](http://gogoame.sumbioun.com/)
-  - [0x00000008](https://flipanim.com/)
-  - [0x00000009](https://zty.pe/)
-  - [0x0000000a](https://aidn.jp/mikutap/)
-  - [0x0000000b](http://zoomquilt.org/)
-  - [0x0000000c](https://lab.bangbang93.com/wsyw)
-  - [0x0000000d](https://lmbtfy.cn/)
-  - [0x0000000e](https://suulnnka.github.io/BullshitGenerator/index.html)
-  - [0x0000000f](https://zzkia.noddl.me/)
-  - [0x00000010](https://www.dgtle.com/)
-  - [0x00000011](https://sspai.com/)
-
 ---
 # **联系作者**
 ---
 
 ## 关于作者
 
-- 普通开发者，热情的学习者，狂热的数码迷
-- 90后，硕士毕业于华中科技大学电信专业，现从事IT类工作
-- 目前在南京栖息，天天被业务折腾得死去活来的同时依然保有对各项技术热忱的追求
+- 普通开发者，热情的学习者
+- 95后，本科毕业于山西财经大学，现从事IT类工作
+- 目前在北京栖息，天天被业务折腾得死去活来的同时依然保有对各项技术热忱的追求
 - 参加工作以后越来越理解交流与分享的重要性，我在不停地汲取大家宝贵经验的同时，也想回馈自己的所学所感给读者
-- 本站是作者自学编程以来所用资源和分享内容的聚合，旨在为编程自学者提供一系列清晰的学习路线/靠谱的资源/高效的工具/务实的技术文章，方便自己也方便他人。网站内容会保持持续更新，欢迎收藏品鉴
+- 本站是作者自学编程以来所用资源和分享内容的聚合，旨在为编程自学者提供一系列清晰的学习路线/靠谱的资源/高效的工具/务实的技术文章，方便自己也方便他人。
 
 ---
 ## 心路历程
 
 - [2021-10-14：我坚持两年了！](https://mp.weixin.qq.com/s/GPVeZtMokBI_LwmcM5XEtA)
 - [2021-09-12：羊哥今年的书单！](https://mp.weixin.qq.com/s/rk0eOgioOj7yw3EjfTt5zQ)
-- [2021-08-29：读了7年通信最后还是转了码，羊哥你后悔吗？](https://mp.weixin.qq.com/s/gU5jhu9wcZHTgGuawpKE8g)
-- [2021-08-05：羊哥竟然翻出了当年的大学成绩单。。](https://mp.weixin.qq.com/s/yhOep3tFNpJ5-4YkDigVxw)
-- [2021-07-16：羊嫂偷偷抹了两个小时眼泪](https://mp.weixin.qq.com/s/OQ5dNnxFKXVt7rgRxxygyw)
-- [2021-06-23：还敢无脑梭哈计算机么？](https://mp.weixin.qq.com/s/AAMmLDeZSLPkKzzGrkHd9g)
-- [2021-06-17：羊家坝村首席高考志愿填报推荐官](https://mp.weixin.qq.com/s/oqopuK0mMP-FAxiDvPUeCg)
-- [2021-06-13：羊哥接到了百万大V的邀请！起飞了~](https://mp.weixin.qq.com/s/8CxIPP2Amb3HXPY7hKUWGA)
-- [2021-06-06：整整5年了！老羊斗胆聊一聊和自己导师的相处](https://mp.weixin.qq.com/s/6h8GIqCdqs0pkNuwR-M7Yg)
-- [2021-05-27：拜访了这位小哥的GitHub后，羊哥失眠了](https://mp.weixin.qq.com/s/-Xp84QH5zQvvHaGWTJF9MA)
-- [2021-05-21：521坦白帖：当年念书时是怎么写情书的？](https://mp.weixin.qq.com/s/9DxslnAKgBHG85iZ8m6yYQ)
-- [2021-05-09：卧槽，人品爆了 ...](https://mp.weixin.qq.com/s/q-fHPCz9YQzVDC4wC9P4YA)
-- [2021-05-05：生产队的驴都不敢这么过五一](https://mp.weixin.qq.com/s/sYPGrLBhojhqIkVAKXLZNg)
-- [2021-04-24：日子浑浑噩噩地过，这可能是我最开心的一周了](https://mp.weixin.qq.com/s/EfYQgGxOYUb6mLs4EBuCCw)
-- [2021-03-28：痴声痴色痴梦痴情几辈痴人](https://mp.weixin.qq.com/s/VqVFhueNtm9jN1GrW4Ebsg)
-- [2021-03-21：我和羊嫂的3平米小书房](https://mp.weixin.qq.com/s/KTD15ZQ4xdTJXt-MVWa7zg)
-- [2021-02-28：哎，我也想有一个这样的老婆啊](https://mp.weixin.qq.com/s/-Odh3JZNzJzGLGLiCf_uzw)
-- [2021-01-14：熬夜多疯狂，体检报告就有多刺激！我怂了](https://mp.weixin.qq.com/s/B9iPfm4DVAwHR1e-wWNPOg)
-- [2021-01-10：去芜湖、看房子、拿体检报告，魔幻的2021开端~](https://mp.weixin.qq.com/s/v1TiNA7XJeMp92u-YLLxjg)
-- [2020-12-13：今天的南京，很冷很冷](https://mp.weixin.qq.com/s/lfm_y0WskLrQJc55JYdu2Q)
 - [2020-10-22：和字节跳动面试官学长聊了聊人生~](https://mp.weixin.qq.com/s/WDatlUIMnADEASTzBTQZQw)
-- [2020-10-15：愿那只在天堂的猫，能够被温柔相待](https://mp.weixin.qq.com/s/ukyCJTXeD9ZoSaNK-WV0Ig)
-- [2020-10-06：老家被拆了，我的少年记忆也无处安放了](https://mp.weixin.qq.com/s/9hw1FTUGZANgcecCFUDovQ)
-- [2020-09-06：没有什么事是一顿撸串解决不了的~](https://mp.weixin.qq.com/s/QHvFgYQLvTrwAsxdWe_eAQ)
-- [2020-08-08：实不相瞒，我就是鹤岗的女婿~](https://mp.weixin.qq.com/s/kXjD-lIZpVjSroKkGHA7SQ)
-- [2020-07-18：最近厚着脸皮联系了不少同学](https://mp.weixin.qq.com/s/FlnZuzmZ9eNK1ahkvC98CA)
-- [2020-07-03：自学党/野生猿，项目经验上哪搞？](https://mp.weixin.qq.com/s/-mFZnE8-DNG6XVM-t589-Q)
-- [2020-06-21：既然硕士毕业也去搞开发，那我还读个喵的研？](https://mp.weixin.qq.com/s/_Kt9OmaBVDDj6S7rsdC-Aw)
-- [2020-06-14：我的毕业季，没有一点点仪式感](https://mp.weixin.qq.com/s/0iSzqJBj7YHkijGxbFUqCQ)
-- [2020-05-08：最近状态不咋好...](https://mp.weixin.qq.com/s/C9HuUYis2zu6ThJAjXRqpA)
-- [2020-05-01：二线城市的程序员活得好吗？](https://mp.weixin.qq.com/s/gOo8ztVLdXp3m_rvBozQpQ)
-- [2020-04-21：自学编程的八大误区！克服它！](https://mp.weixin.qq.com/s/r_vm7lA2Ul_ZFhkx60wplg)
-- [2020-04-08：我的本科回忆录：从迷茫自卑到保送华科](https://mp.weixin.qq.com/s/t9F6Z-DrybWLUxVrPTRPJw)
-- [2020-03-15：到底要不要考研？](https://mp.weixin.qq.com/s/pwInIR-h1gkPXGuu4u1aWw)
-- [2020-02-23：实不相瞒，在家远程办公15天，我有点自闭](https://mp.weixin.qq.com/s/gJBlu5gXL5vqYWG6ggisRw)
-- [2020-02-16：昨夜，我梦回武汉 . . .](https://mp.weixin.qq.com/s/lfGqTBuyRSiA9NL-8Na-xg)
-- [2020-02-02：转行的路，走起来其实有点累...](https://mp.weixin.qq.com/s/FPreCde-JHl2D6HZDGK7qg)
-- [2020-01-23：来B站一年，我活成了人的模样！](https://mp.weixin.qq.com/s/-RWgqMi2iKFUQGWbgyyo3w)
-- [2019-10-28：快30岁的我，终于赚到人生第一个10W！](https://mp.weixin.qq.com/s/i-EFuFb7yPpoOidme18EWA)
-- [2019-09-08：华科研究生学长想对导师们说的话！](https://mp.weixin.qq.com/s/TO9-kBWKFs2sV1z0Hw3qWw)
+
 
 ---
 ## 微信联系
 
 <p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/qrcode_for_gh_1537917051d0_258.nd3fymuhyts.jpeg" width=""/>
+    <a href="" target="_blank">
+        <img src="https://gitee.com/codesage/picture-warehouse/raw/master/66f0110873338dfd69e3ce87b126e2d.jpg" width=""/>
     </a>
 </p>
 
@@ -1536,11 +1168,8 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 
 ## GitHub开源地址
 
-- [https://github.com/rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding) **欢迎Star支持**
+- [https://github.com/WindDogg/Knowledge](https://github.com/WindDogg/Knowledge) **欢迎Star支持**
 
-## Gitee开源地址
-
-- [https://gitee.com/rd2coding/Road2Coding](https://gitee.com/rd2coding/Road2Coding) **欢迎Star支持**
 
 
 ---
