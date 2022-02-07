@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="https://winddogg.github.io/Knowledge/" target="_blank">
-        <img src="https://gitee.com/codesage/picture-warehouse/raw/master/topic.jpg" width=""/>
+        <img src="https://gitee.com/codesage/picture-warehouse/raw/master/logo.png" width=""/>
     </a>
 </p>
 
@@ -15,7 +15,7 @@
 ---
 
 > [!TIP]
->  本站取名 **Road To Sage**,意为「成圣之路」，是自学编程以来所用资源和分享内容的大聚合。
+>  本站取名 **Road Sage**,是自学编程以来所用资源和分享内容的大聚合。
 
 
 ---
